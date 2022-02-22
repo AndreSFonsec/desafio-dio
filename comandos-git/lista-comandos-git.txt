@@ -1,5 +1,5 @@
 'git init': inicializar repositorio git local.
 'git status': status atual do repositorio local.
 'git add .': adiciona todas as alterações realizadas no repositório local.
-'git push -m "descrição_aqui"': envia o commit para o repositorio no servidor (GitHub),
-com uma mensagem de descrição.
+'git commit -m "descrição_aqui"': commita as alterações.
+'git push': envia para o repositório no servidor (GitHub).
